@@ -39,6 +39,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![ejecutar el programa](screenshots/first.jpg)
 
-2. Visit the website sudoku.com
+2. Visit the website [sudoku.com](https://sudoku.com/)
 
 ![sudoku.com](screenshots/second.jpg)
