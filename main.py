@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 import pyautogui
-from SudokuSolver import SudokuSolver
+from sudokus_solver import sudokus_solver
 
 def main():
     # Make sure alt-tabbing switches to the browser where sudoku.com is open
@@ -22,7 +22,7 @@ def main():
     squares_images = split_grid(cropped_grid)
     sudoku = squares_images_to_sudoku(squares_images)
     # Solve the sudoku
-    solver = SudokuSolver(sudoku)
+    solver = sudokus_solver(sudoku)
     solved = solver.solve()
     solve_on_website(square_contour, solved)
 

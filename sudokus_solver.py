@@ -1,7 +1,7 @@
 import numpy as np
 import time
 
-class SudokuSolver:
+class sudokus_solver:
 
     def __init__(self, sudoku):
         self.bitmap = np.ones((9, 9, 9), dtype=bool)
