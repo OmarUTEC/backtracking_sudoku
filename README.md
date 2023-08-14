@@ -42,3 +42,5 @@ This project is licensed under the [MIT License](LICENSE).
 2. Visit the website [sudoku.com](https://sudoku.com/)
 
 ![sudoku.com](screenshots/second.jpg)
+
+🐍 + 🐧
