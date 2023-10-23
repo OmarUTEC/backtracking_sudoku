@@ -43,4 +43,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![sudoku.com](screenshots/second.jpg)
 
-🐍 + 🐧 + 🤖 -> Pure Imagination
