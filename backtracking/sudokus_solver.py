@@ -57,7 +57,7 @@ class sudokus_solver:
                 self.bitmap[i//3*3+k][j//3*3+l][number-1] = False
     
     def trivial_moves(self):
-        changed = True
+        changed = True  
         while changed:
             changed = False
             for i in range(9):
