@@ -31,7 +31,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 # TEST
 
-1. Execute the program
+1. Execute the program with this bash command 
 
     ```bash
     python main.py
